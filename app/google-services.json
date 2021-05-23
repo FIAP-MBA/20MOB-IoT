@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "1091252791799",
+    "project_id": "mob-android-a3226",
+    "storage_bucket": "mob-android-a3226.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091252791799:android:b9efc0efce99b6891fe6f2",
+        "android_client_info": {
+          "package_name": "com.github.cesar1287.filmes20mob"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1091252791799-rn0deogb1rnkm04r61ldh6fvrs8h39c5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.github.cesar1287.filmes20mob",
+            "certificate_hash": "b8c219c6ccc2e1ca051e2f9d1a4db4bff5c7bd0b"
+          }
+        },
+        {
+          "client_id": "1091252791799-7hvgs32maqlh3s5gnojdc96h5nkkcdau.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAH5sccpiOl037Hr7UNw3MSnV6J5y_G6Mo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1091252791799-7hvgs32maqlh3s5gnojdc96h5nkkcdau.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091252791799:android:dd5b36068f13ec001fe6f2",
+        "android_client_info": {
+          "package_name": "com.github.cesar1287.iot20mob"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1091252791799-7hvgs32maqlh3s5gnojdc96h5nkkcdau.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAH5sccpiOl037Hr7UNw3MSnV6J5y_G6Mo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1091252791799-7hvgs32maqlh3s5gnojdc96h5nkkcdau.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

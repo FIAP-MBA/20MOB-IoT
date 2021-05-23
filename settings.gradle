@@ -1,0 +1,2 @@
+rootProject.name = "IoT 20MOB"
+include ':app'
